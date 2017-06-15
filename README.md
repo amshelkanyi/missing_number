@@ -7,4 +7,4 @@ This is a function which returns the missing number from both arrays.
 
 [1,2,3] and [1,2,3,4] should return 4
 
-[4,66,7] and [66,77,7,4] should return 77'''
+[4,66,7] and [66,77,7,4] should return 77
